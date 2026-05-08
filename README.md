@@ -37,7 +37,7 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
 
 
   <h2>Funções</h2>
-  <p><b>Arthur David - Código e Acessibilidades</b></p>
-  <p><b>Sofia - Sprites e Acessibilidades</b></p>
+  <p><b>Arthur David </b> - Código e Acessibilidades</p>
+  <p><b>Sofia </b>- Sprites e Acessibilidades</p>
 </body>
 </html>
