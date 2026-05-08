@@ -27,9 +27,13 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
 
   <p>Os botões foram estilizados em formato de pergaminhos antigos e entre as opções:</p>
 
-  <p> - <b>Jogar</b>b</p>
+  <p> - <b>Jogar</b></p>
   <p> - <b>Configurações</b></p>
   <p> - <b>Acessibilidade</b></p>
+
+  <p>Em relação às acessibilidades:</p>
+  <p> - <b>Daltonismo</b></p>
+  <p> - <b>Tourette</b></p>
 
 </body>
 </html>
