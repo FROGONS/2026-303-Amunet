@@ -29,7 +29,7 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
 
   <p> - <b>Jogar</b></p>
   <p> - <b>Configurações</b></p>
-  <p> - <b>Acessibilidade</b></p>
+  <p> - <b>Créditos</b></p>
 
   <p>Em relação às acessibilidades:</p>
   <p> - <b>Daltonismo</b></p>
