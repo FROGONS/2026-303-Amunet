@@ -23,7 +23,7 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
  
 
   <!-- Imagem -->
-  <img src="egito.jpg" alt="Imagem do jogo" width="700">
+  <img src="img/egito.jpg" alt="Imagem do jogo" width="700">
 
   <p>Os botões foram estilizados em formato de pergaminhos antigos e entre as opções:</p>
 
@@ -35,5 +35,9 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
   <p> - <b>Daltonismo</b></p>
   <p> - <b>Tourette</b></p>
 
+
+  <h2>Funções</h2>
+  <p><b>Arthur David - Código e Acessibilidades</b></p>
+  <p><b>Sofia - Sprites e Acessibilidades</b></p>
 </body>
 </html>
