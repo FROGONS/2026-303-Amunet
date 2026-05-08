@@ -23,7 +23,7 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
  
 
   <!-- Imagem -->
-  <img src="Ftjogo.png" alt="Imagem do jogo" width="700">
+  <img src="egito.jpg" alt="Imagem do jogo" width="700">
 
   <p>Os botões foram estilizados em formato de pergaminhos antigos e entre as opções:</p>
 
