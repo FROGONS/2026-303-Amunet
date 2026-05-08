@@ -34,7 +34,7 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
   <p>Em relação às acessibilidades:</p>
   <p> - <b>Daltonismo</b></p>
   <p> - <b>Tourette</b></p>
-
+   <img src="img/ftConfig.jpg" alt="Imagem do jogo" width="700">
 
   <h2>Funções</h2>
   <p><b>Arthur David </b> - Código e Acessibilidades</p>
