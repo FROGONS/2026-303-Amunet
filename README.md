@@ -6,7 +6,6 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README Preview</title>
 </head>
 <body>
 
@@ -18,12 +17,19 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
   </p>
 
   <p>
-    Na parte visual, nosso menu possui elementos que fazem referência ao
-    Egito Antigo, como os botões em formato de pergaminho e o próprio fundo.
+   O menu principal foi desenvolvido com inspiração visual no Egito Antigo, com elementos pixel art que remetem ao ambiente desértico egípcio.
   </p>
+
+ 
 
   <!-- Imagem -->
   <img src="Ftjogo.png" alt="Imagem do jogo" width="700">
+
+  <p>Os botões foram estilizados em formato de pergaminhos antigos e entre as opções:</p>
+
+  <p> - <b>Jogar</b>b</p>
+  <p> - <b>Configurações</b></p>
+  <p> - <b>Acessibilidade</b></p>
 
 </body>
 </html>
