@@ -14,12 +14,12 @@
 
   <h2>Sobre o Jogo</h2>
   <p>
-    <b>Amunet</b> é um jogo focado na exploração de mistérios no Egito Antigo. O jogador transita entre ambientes como o interior de uma pirâmide e um quarto temático egípcio[cite: 1]. 
-    Toda a direção arte foi feita em <b>pixel art</b>, combinando iluminação interior, ruínas e móveis característicos da época[cite: 1].
+    <b>Amunet</b> é um jogo focado na exploração de mistérios no Egito Antigo. O jogador transita entre ambientes como o interior de uma pirâmide e um quarto temático egípcio. 
+    Toda a direção arte foi feita em <b>pixel art</b>, combinando iluminação interior, ruínas e móveis característicos da época.
   </p>
 
-  <!-- ONDE ADICIONAR IMAGEM 1: Imagem do Menu Principal ou Interior da Pirâmide -->
-  <!-- Exemplo: <img src="imagens/gemini-2.5-flash-image_nesse_mesmo_estilo_e_paleta_de_cores_gere_uma_imagem_de_dentro_de_uma_piramide._-0 (2).jpg" alt="Cenário Interior da Pirâmide" width="700"> -->
+  <!-- Imagem -->
+  <img src="image.png" alt="Imagem do jogo" width="700">
 
   <h2>Estrutura de Cenas do Projeto (Godot)</h2>
   <p>O projeto é estruturado utilizando a engine Godot e conta com as seguintes cenas e ambientes mapeados[cite: 1]:</p>
